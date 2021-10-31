@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey, I'm Ry - not Ryan, Ry.
+# 👋 Hey, I'm Ry - not Ryan, Ry.
 
 Full Stack web developer skilled in HTML5, CSS, JavaScript, Node, Ruby, Rails, SQL and GitHub. I’m currently enrolled in a full stack bootcamp through the App Academy to expand my developer skills and turn my dreams into reality!
 
