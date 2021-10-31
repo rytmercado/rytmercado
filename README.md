@@ -29,7 +29,7 @@ Full Stack web developer skilled in HTML5, CSS, JavaScript, Node, Ruby, Rails, S
 
 ### 📫 How to reach me:
 
-<a href="mailto:rytmercado@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/></a> &nbsp;
+<a href="mailto:rytmercado@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/mailing.png" width="4%"/>rytmercado@gmail.com</a> &nbsp;
 
 ### 🛠️ Tech Tools:
 
