@@ -20,12 +20,13 @@ Full Stack web developer skilled in HTML5, CSS, JavaScript, Node, Ruby, Rails, S
 
 ### 🔭 I’m currently working on:
 
-- Gasparilla - a pirate themed rogue-like gane created using Vanilla JS and HTML5.
+- React Full-Stack clone
 
 ### 🌱 I’m currently learning
 
-- Vanilla Javascript DOM Manipulation
-- Rot.js rogue-like javascript module
+- React
+- Redux
+- React/Redux
 
 ### 📫 How to reach me:
 
