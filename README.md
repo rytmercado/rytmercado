@@ -24,7 +24,8 @@ Full Stack web developer skilled in HTML5, CSS, JavaScript, Node, Ruby, Rails, S
 
 ### 🌱 I’m currently learning:
 
-- Python
+- Typescript
+- Tailwind CSS
 
 ### 📫 How to reach me:
 
