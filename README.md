@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 
 # 👋 Hey, I'm Ry - not Ryan, Ry.
 
-Full Stack web developer skilled in HTML5, CSS, JavaScript, Node, Ruby, Rails, SQL and Git. I recently graduated from a full stack bootcamp through the App Academy and continue to expand my developer skills to one day turn my dreams into reality!
+Full Stack web developer skilled in HTML5, CSS, JavaScript, Node, Ruby, Rails, Python, SQL and Git.
 
 ### 🔭 I’m currently working on:
 
 - Personal Portfolio
-
-### 🌱 I’m currently learning:
-
-- Typescript
-- Tailwind CSS
 
 ### 📫 How to reach me:
 
